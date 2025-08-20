@@ -5,11 +5,9 @@ Estás na página da coordenação da Mobilidade do DEI (doravante CM-DEI).
 
 - Secretariado: Lucília Abreu
 
-Tratamos da documentação relativa à componente curricular
+- Contacto: mobilidade@dei.tecnico.ulisboa.pt
 
-- Contacto: mobilidade@dei.tecnico.ulisboa.pt.
-
-O fantástico Núcleo de Mobilidade e Parcerias Internacionais (NMPI) é o núcleo do IST dedicado à mobilidade, junto ao qual podes obter toda a informação logística, bolsas, prazos de candidatura, regulamentos, etc. 
+Podes obter junto ao Núcleo de Mobilidade e Parcerias Internacionais (NMPI) informação logística, sobre bolsas, prazos de candidatura, regulamentos, etc. O CM-DEI trata exclusivamente da documentação relativa à componente curricular.
 
 - Contactos: erasmus@tecnico.ulisboa.pt (Europa) e outsideeurope@tecnico.ulisboa.pt (fora da Europa).
 
@@ -27,7 +25,7 @@ Templates de documentos eventualmente necessários: [English Studies Declaration
 
 ### Sessões de atendimento (setembro a junho)
 
-Quartas-feiras, das 12h às 13h [zoom]. Se ninguém aparecer nos primeiros 10 minutos considera-se a sessão encerrada.
+Quartas-feiras, das 12h20 às 13h [zoom](https://videoconf-colibri.zoom.us/j/9508949325). Se ninguém aparecer nos primeiros 10 minutos considera-se a sessão encerrada.
 
 ### FAQs
 
