@@ -2,7 +2,7 @@
 
 É na PLA que indicas as UCs que farás no destino e as UCs da LEIC/LETI/MEIC/METI às quais pretendes ter equivalências; neste documento deves apresentar os links de todas as UCs em causa (quer do destino, quer da LEIC/MEIC/METI), de modo a que a CM-DEI possa avaliar as sinergias entre estas. 
 
-Template da PLA: [aqui](./PLA.pdf) 
+Template da PLA: [aqui](./PLA.xlsx) 
 Instruções para o preenchimento da PLA: [aqui](./exemplo-PLA.pdf).
 
 **Atenção:**
