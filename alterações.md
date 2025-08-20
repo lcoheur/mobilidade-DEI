@@ -10,9 +10,9 @@ Depois de receberes um mail com a aprovação da nova PLA deves ter em conta os 
 
 a) Se ainda não partiste em mobilidade, deves preencher um novo LA (apenas Erasmus Europa) e um novo PEI (todos) tendo em conta as templates anteriores (ver documentos iniciais);
 
-b) Se já estás em mobilidade e fores um Erasmus Europa deves preencher este documento (instruções: [aqui](./exemplo_alteracao_LA.pdf));
+b) Se já estás em mobilidade e fores um Erasmus Europa deves preencher [este](./alteracao_LA.pdf)  documento (instruções: [aqui](./exemplo_alteracao_LA.pdf));
 
-c) Se já estás em mobilidade fora da Europa deves preencher este documento (instruções: [aqui](./exemplo_alteracao_PEI.pdf)).
+c) Se já estás em mobilidade fora da Europa deves preencher [este](./alteracao_PEI.pdf) documento (instruções: [aqui](./exemplo_alteracao_PEI.pdf)).
 
 Estes documentos terão de ser novamente enviados para a CM-DEI para aprovação e assinatura. O novo LA devidamente assinado deve ser submetido na plataforma de destino ou enviado para assinatura do coordenador de destino. Todos os novos
 documentos devem ser enviados ao NMPI.
