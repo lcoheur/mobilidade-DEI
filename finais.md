@@ -11,7 +11,7 @@ diretamente para o NMPI;
 
 2- Aguardar que o NMPI te entregue o template a preencher (isto é, o Plano de Estudos Final (doravante PEF) em formato docx).
 
-3- Preencher parcialmente o PEF (não preencher as notas). Instruções para preenchimento [aqui](./PEF.pdf).
+3- Preencher parcialmente o PEF (não preencher as notas). Instruções para preenchimento [aqui](./exemplo-PEF.pdf).
 
 4- Enviar o PEF para a CM-DEI (idealmente fazendo reply aos e-mails anteriores).
 
