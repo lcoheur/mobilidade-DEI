@@ -13,7 +13,7 @@ Podes obter junto ao Núcleo de Mobilidade e Parcerias Internacionais (NMPI) inf
 
 **Atenção:**
 
-- Não envies mails privados que não terão resposta. 
+- Não nos contactes via os nossos emails privados que não terás resposta. 
 
 - Quando envias um email sobre um dado assunto é aberto um ticket. Por favor, responde sempre na mesma thread, ou seja, **faz sempre REPLY** ao primeiro mail que enviares.
 
