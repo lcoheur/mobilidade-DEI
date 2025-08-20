@@ -3,11 +3,17 @@ First of all, welcome to Lisbon. We hope your experience will be fantastic!
 
 You are on the mobility page of DEI (hereafter CM-DEI). Técnico has a (fantastic) office dedicated to mobility ([NMPI](https://aai.tecnico.ulisboa.pt/en/nucleo-de-mobilidade-e-parcerias-internacionais/)) where you can obtain all logistical information, scholarships, application deadlines, regulations, etc. (contacts: erasmus@tecnico.ulisboa.pt (Erasmus Europe); outsideeurope@tecnico.ulisboa.pt (outside Europe). 
 
-We, CM-DEI, only handle the documentation related to the academic component. You can contact us via mobilidade@dei.tecnico.ulisboa.pt.
+We, CM-DEI, only handle the documentation related to the academic component.
+
+Coordinators: Prof. Luísa Coheur e Prof. Miguel Matos
+
+Secretariat: Lucília Abreu
+
+Contact: mobilidade@dei.tecnico.ulisboa.pt
 
 **Attention:**
 
-- Do not send private emails — they will not be answered.
+- Do not send private emails — they will not be answered (always use mobilidade@dei.tecnico.ulisboa.pt).
 
 - When you send an email on a given topic, a ticket is opened. Please always reply in the same thread, that is, **always REPLY** to the first email you sent us.
 
