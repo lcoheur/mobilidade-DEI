@@ -25,13 +25,13 @@ Podes obter junto ao Núcleo de Mobilidade e Parcerias Internacionais (NMPI) inf
 
 Overview do processo: [aqui](./overview.md)
 
-Procedimentos para preenchimento dos documentos iniciais (PLA, LA e PEI): [aqui](./iniciais)
+Procedimentos para preenchimento dos documentos iniciais (PLA, LA e PEI): [aqui](./iniciais.md)
 
-Procedimentos para preenchimento dos documentos de alteração (Changes LA ou APEI): [aqui](./alterações)
+Procedimentos para preenchimento dos documentos de alteração (Changes LA ou APEI): [aqui](./alterações.md)
 
-Procedimentos para preenchimento dos documentos finais (PEF): [aqui](finais)
+Procedimentos para preenchimento dos documentos finais (PEF): [aqui](finais.md)
 
-Templates de documentos eventualmente necessários: [English Studies Declaration](./english) / [Nomination Letter] (./nomination)
+Templates de documentos eventualmente necessários: [English Studies Declaration](./english.pdf) / [Nomination Letter] (./nomination.pdf)
 
 ### Sessões de atendimento (setembro a junho)
 
