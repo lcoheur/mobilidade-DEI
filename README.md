@@ -1,3 +1,3 @@
-[Incoming students](./incoming).
+Incoming students: [here](./incoming)
 
-[Outgoing students](./outgoing).
+Outgoing students: [here](./outgoing)
