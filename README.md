@@ -1,3 +1,3 @@
 Incoming students: [here](./incoming)
 
-Outgoing students: [here](./outgoing)
+Outgoing students: [here](./outgoing.md)
