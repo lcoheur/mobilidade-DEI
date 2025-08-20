@@ -16,7 +16,7 @@ b) Se já estás em mobilidade e fores um Erasmus Europa deves preencher [este](
 
 Exemplo de preenchimento do documento de alterações ao LA [aqui](./exemplo_alteracao_LA.pdf).
 
-c) Se já estás em mobilidade fora da Europa deves preencher [este](./alteracao_PEI.pdf) documento.
+c) Se já estás em mobilidade fora da Europa deves preencher [este](./alteracao_PEI.docx) documento.
 
 Exemplo de preenchimento do documento de alterações ao PEI [aqui](./exemplo_alteracao_PEI.pdf).
 
