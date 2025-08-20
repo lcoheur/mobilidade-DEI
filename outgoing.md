@@ -17,7 +17,7 @@ Podes obter junto ao Núcleo de Mobilidade e Parcerias Internacionais (NMPI) inf
 
 - Quando envias um email sobre um dado assunto é aberto um ticket. Por favor, responde sempre na mesma thread, ou seja, **faz sempre REPLY** ao primeiro mail que enviares.
 
-- Ao longo de todo o processo vai ser preciso reunir documentação variada. Nota que estamos completamente sobrecarregados com trabalho e não contes com respostas imediatas, nem com tolerâncias para atrasos. Por vezes vamos ter de trocar e-mails até se convergir para uma solução, portanto trata de todo o processo atempadamente.
+- Ao longo de todo o processo vai ser preciso reunir documentação variada. Nota que estamos completamente sobrecarregados com trabalho e não contes com respostas imediatas, nem com tolerâncias para atrasos. Por vezes vamos ter de trocar emails até se convergir para uma solução, portanto trata de todo o processo atempadamente.
 
 - Nota que é da tua responsabilidade ler os regulamentos e apresentar propostas que cumpram todas as regras.
 
