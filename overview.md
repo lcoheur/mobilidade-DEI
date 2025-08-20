@@ -1,18 +1,17 @@
-Mobilidade@DEI – Do IST para o mundo
-1 Candidatura
-As candidaturas são feitas na plataforma Connect. Podes escolher vários destinos,
-ordenados por prioridade. Cada destino deve ser feito em consciência, pois, caso
-seja validada a tua colocação num destino, não a poderás alterar.
-Já nesta etapa, sugerimos que vejas com atenção as UCs a realizar em cada
-potencial destino. A informação curricular de cada disciplina encontra-se, na
-maioria dos casos, no site da universidade de acolhimento.
-Atenção:
-● É da tua responsabilidade garantir que a universidade que escolheste como
+### Mobilidade@DEI – Do IST para o mundo
+
+## Candidatura
+As candidaturas são feitas na plataforma Connect. Podes escolher vários destinos, ordenados por prioridade. Cada destino deve ser feito em consciência, pois, caso seja validada a tua colocação num destino, não a poderás alterar. Já nesta etapa, sugerimos que vejas com atenção as UCs a realizar em cada potencial destino. A informação curricular de cada disciplina encontra-se, na maioria dos casos, no site da universidade de acolhimento.
+
+***Atenção:***
+- É da tua responsabilidade garantir que a universidade que escolheste como
 destino oferece UCs que se emparelham com as UCs da LEIC/MEIC/METI às quais
 propões obter equivalência.
-● Confirma também que essas UCs são oferecidas (e avaliadas) numa língua que
+
+- Confirma também que essas UCs são oferecidas (e avaliadas) numa língua que
 dominas.
-2 Como é que sei se fiquei colocado?
+
+## Como é que sei se fiquei colocado?
 Pouco depois de te candidatares, vais receber um email do NMPI a informar sobre a
 tua colocação. A partir desse momento podes começar a tratar da Proposta do
 Learning Agreement (ver abaixo).
