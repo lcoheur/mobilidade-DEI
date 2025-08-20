@@ -4,7 +4,7 @@
 As candidaturas são feitas na plataforma [Connect](https://fenix.tecnico.ulisboa.pt/fenixedu-connect). Podes escolher vários destinos, ordenados por prioridade. Cada destino deve ser feito em consciência, pois, caso seja validada a tua colocação num destino, não a poderás alterar. Já nesta etapa, sugerimos que vejas com atenção as Unidades Curriculares (UCs) a realizar em cada potencial destino. A informação curricular de cada disciplina encontra-se, na maioria dos casos, no site da universidade de acolhimento.
 
 ***Atenção:***
-- É da tua responsabilidade garantir que a universidade que escolheste como destino oferece UCs que se emparelham com as UCs da LEIC/LETI/MEIC/METI às quais propões obter equivalência.
+- É da tua responsabilidade garantir que a universidade que escolheste como destino oferece UCs que se emparelham com as UCs às quais propões obter equivalência.
 
 - Confirma também que essas UCs são oferecidas (e avaliadas) numa língua que dominas.
 
