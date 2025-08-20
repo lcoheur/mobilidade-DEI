@@ -22,11 +22,11 @@ Algum tempo depois, é-te enviado pelo NMPI um novo mail, com os prazos para a s
 
 De entre vários documentos que terás de coligir, há três que terão de ser aprovados pela CM-DEI:
 
-a) Proposta do Learning Agreement (doravante PLA) --> Todos os alunos
+- Proposta do Learning Agreement (doravante PLA) --> Todos os alunos
 
-b) Learning Agreement (doravante LA) --> Apenas para Erasmus Europa
+- Learning Agreement (doravante LA) --> Apenas para Erasmus Europa
 
-c) Plano de Estudos Inicial (doravante PEI) -- > Todos os alunos
+- Plano de Estudos Inicial (doravante PEI) -- > Todos os alunos
 
 Vê na página anterior como preencher estes documentos (documentos iniciais).
 
