@@ -72,9 +72,9 @@ O PEI e o LA são feitos com base na PLA. Depois de aprovada a PLA pela CM-DEI, 
 o PEI. Os alunos cuja universidade de acolhimento é na Europa terão de fazer também o LA.
 
 - Template do PEI: anexado ao e-mail que recebeste do NMPI
-- Instruções para o preenchimento do PEI: [aqui](exemplo-PEI.pdf)
+- Instruções para o preenchimento do PEI: [aqui](./exemplo-PEI.pdf)
 - Template do LA: anexado ao e-mail que recebeste do NMPI
-- Instruções para o preenchimento do LA: [aqui](exemplo-LA.pdf)
+- Instruções para o preenchimento do LA: [aqui](./exemplo-LA.pdf)
  
 Quando completares o PEI (e o LA se na Europa) deves enviá-lo(s) de para CM-DEI (**REPLY** aos mails trocados anteriormente com a CM-DEI, sff) e aguardar de novo serenamente que seja(m) validado(s) e assinado(s).
 
