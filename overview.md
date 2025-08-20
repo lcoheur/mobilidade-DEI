@@ -15,8 +15,9 @@ Algum tempo depois, é-te enviado pelo NMPI um novo mail, com os prazos para a s
 
 ***Atenção:***
 - É da tua responsabilidade reunir esses documentos dentro dos prazos.
+
 - Lembramos que estamos sobrecarregados com trabalho e não damos respostas imediatas, pelo que se deixares tudo para os últimos dias arriscas-te a não ter a documentação pronta a tempo.
-- 
+
 ### Como devo proceder para coligir a documentação pedida?
 
 De entre vários documentos que terás de coligir, há três que terão de ser aprovados pela CM-DEI:
