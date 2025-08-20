@@ -14,7 +14,7 @@ O fantástico Núcleo de Mobilidade e Parcerias Internacionais (NMPI) é o núcl
 - Contactos: erasmus@tecnico.ulisboa.pt (Europa) e outsideeurope@tecnico.ulisboa.pt (fora da Europa).
 
 # Documentação
-Overview do processo: [aqui](./1-OverviewProcesso.pdf)
+Overview do processo: [aqui](./overview.md)
 
 Procedimentos para preenchimento dos documentos iniciais (PLA, LA e PEI): [aqui](./2-PreenchimentoDocumentosIniciais-2.pdf)
 
