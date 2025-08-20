@@ -1,3 +1,4 @@
+## Overview do Processo
 
 ### Candidatura
 As candidaturas são feitas na plataforma Connect. Podes escolher vários destinos, ordenados por prioridade. Cada destino deve ser feito em consciência, pois, caso seja validada a tua colocação num destino, não a poderás alterar. Já nesta etapa, sugerimos que vejas com atenção as UCs a realizar em cada potencial destino. A informação curricular de cada disciplina encontra-se, na maioria dos casos, no site da universidade de acolhimento.
