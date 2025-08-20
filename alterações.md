@@ -10,7 +10,7 @@ Depois de receberes um mail com a aprovação da nova PLA deves ter em conta os 
 
 a) Se ainda não partiste em mobilidade, deves preencher um novo LA (apenas Erasmus Europa) e um novo PEI (todos) tendo em conta as templates anteriores (ver documentos iniciais);
 
-b) Se já estás em mobilidade e fores um Erasmus Europa deves preencher este documento (instruções: [aqui](./exemplo-alteracoesLA.pdf);
+b) Se já estás em mobilidade e fores um Erasmus Europa deves preencher este documento (instruções: [aqui](./exemplo-alteracoesLA.pdf));
 
 c) Se já estás em mobilidade fora da Europa deves preencher este documento (instruções: [aqui](./exemplo-alteracoesPEI.pdf)).
 
