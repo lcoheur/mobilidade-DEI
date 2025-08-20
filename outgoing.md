@@ -1,7 +1,7 @@
 ### Olá!
 Estás na página da coordenação da Mobilidade do DEI (doravante CM-DEI).
 
-- Coordenadores: Prof.a Luísa Coheur e Prof. Miguel Matos
+- Coordenadores: Prof. Luísa Coheur e Prof. Miguel Matos
 
 - Secretariado: Lucília Abreu
 
