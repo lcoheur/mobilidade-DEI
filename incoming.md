@@ -21,6 +21,6 @@ a) You were given priority when choosing your courses, but if you want to change
 
 b) Please note that **you must take at least 50% of your courses in MEIC/METI**;
 
-c) Before sending us any document with changes, these must be validated and signed by your home university coordinator.
+c) Before sending us any document with changes, these must be validated and signed by your home university coordinator;
 
-d) Also, notice that classes are held on **two campuses: Alameda campus and Oeiras campus**. When signing up for class groups/labs, make sure you are enrolling in the correct campus.
+d) Also, notice that classes are held on **two campuses: Alameda campus and Oeiras campus** and that **Oeiras campus is outside Lisbon**. When signing up for class groups/labs, make sure you are enrolling in the correct campus.
