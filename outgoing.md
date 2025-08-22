@@ -39,4 +39,4 @@ Quartas-feiras, das 12h20 às 13h [zoom](https://videoconf-colibri.zoom.us/j/950
 
 ### FAQs
 
-Podes encontrar as respostas a algumas perguntas frequentes [aqui](./faqs)
+Podes encontrar as respostas a algumas perguntas frequentes [aqui](./faqs.md)
