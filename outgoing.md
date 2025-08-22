@@ -31,7 +31,7 @@ Procedimentos para preenchimento dos documentos de alteração (Changes LA ou AP
 
 Procedimentos para preenchimento dos documentos finais (PEF): [aqui](finais.md)
 
-Templates de documentos eventualmente necessários: [English Studies Declaration](./english.pdf) / [Nomination Letter] (./nomination.pdf)
+Templates de documentos eventualmente necessários: [English Studies Declaration](./english.docx) / [Nomination Letter](./nomination.docx)
 
 ### Sessões de atendimento (setembro a junho)
 
