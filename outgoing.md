@@ -1,3 +1,9 @@
+
+
+
+
+OLD PAGE -- PLEASE IGNORE IT (go to https://github.com/lcoheur/mobilidade-DEI/wiki)
+
 ### Olá!
 Estás na página da coordenação da Mobilidade do DEI (doravante CM-DEI).
 
@@ -32,10 +38,6 @@ Procedimentos para preenchimento dos documentos de alteração (Changes LA ou AP
 Procedimentos para preenchimento dos documentos finais (PEF): [aqui](finais.md)
 
 Templates de documentos eventualmente necessários: [English Studies Declaration](./english.docx) / [Nomination Letter](./nomination.docx)
-
-### Sessões de atendimento (setembro a junho)
-
-Quartas-feiras, das 12h20 às 13h [zoom](https://videoconf-colibri.zoom.us/j/9508949325). Se ninguém aparecer nos primeiros 10 minutos considera-se a sessão encerrada.
 
 ### FAQs
 
